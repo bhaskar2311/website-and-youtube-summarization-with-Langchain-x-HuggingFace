@@ -1,4 +1,4 @@
-# 🦜 HuggingFace × LangChain: Summarize YouTube Videos or Webpages
+# 🦜HuggingFace × LangChain: Summarize YouTube Videos or Webpages
 
 A fast, intelligent summarization tool that allows users to extract key insights from YouTube videos or website URLs by simply pasting a link. This end-to-end application combines the flexibility of LangChain, the performance of HuggingFace’s Mistral-7B, and the convenience of Streamlit — making it effortless to generate high-quality summaries on the fly.
 
